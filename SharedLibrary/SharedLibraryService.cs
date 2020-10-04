@@ -1,6 +1,7 @@
-﻿
-using Microsoft.Azure.Devices;
+﻿using Microsoft.Azure.Devices;
 using System.Threading.Tasks;
+
+//OBS! Denna projekt är till testet
 
 namespace SharedLibrary
 {

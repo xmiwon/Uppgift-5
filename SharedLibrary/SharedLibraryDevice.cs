@@ -4,6 +4,8 @@ using System.Text;
 using System.Threading.Tasks;
 namespace SharedLibrary
 {
+
+    //OBS! Denna projekt är till testet
     public class SharedLibraryDevice
     {
         public DeviceClient deviceClient;
